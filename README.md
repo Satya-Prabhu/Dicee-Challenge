@@ -6,7 +6,7 @@ When the page is refreshed, two dice are rolled randomly, and the game declares 
 ---
 
 ## 🚀 Live Demo
-You can play the game here: [Dicee Challenge on GitHub Pages](https://your-username.github.io/dicee-challenge/)
+You can play the game here: [Dicee Challenge on GitHub Pages](https://satya-prabhu.github.io/Dicee-Challenge/)
 
 ---
 
