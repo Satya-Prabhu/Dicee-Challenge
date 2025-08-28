@@ -16,8 +16,11 @@ Dicee-Challenge/
 │── index.html   # Main HTML file 
 
 │── styles.css   # CSS styling 
+
 │── index.js     # JavaScript logic for dice rolling 
+
 │── images/      # Dice face images (dice1.png → dice6.png) 
+
 │── README.md    # Project documentation 
 
 ## Made with ❤️ by Satya Prabhu
