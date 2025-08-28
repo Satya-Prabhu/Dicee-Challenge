@@ -12,7 +12,9 @@ You can play the game here: [Dicee Challenge on GitHub Pages](https://satya-prab
 
 ## 📂 Project Structure
 Dicee-Challenge/ 
+
 │── index.html   # Main HTML file 
+
 │── styles.css   # CSS styling 
 │── index.js     # JavaScript logic for dice rolling 
 │── images/      # Dice face images (dice1.png → dice6.png) 
