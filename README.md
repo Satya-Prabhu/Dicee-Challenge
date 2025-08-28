@@ -23,4 +23,14 @@ Dicee-Challenge/
 
 │── README.md    # Project documentation 
 
+
+---
+
+## ✨ Features
+- 🎲 Random dice roll each time the page reloads  
+- 🚩 Winner announced between Player 1 and Player 2  
+- ⚖️ Declares "Draw!" if both dice show the same number  
+- 🖌️ Styled with Google Fonts (*Lobster* & *Indie Flower*)  
+- 🎨 Modern design with clean UI  
+
 ## Made with ❤️ by Satya Prabhu
